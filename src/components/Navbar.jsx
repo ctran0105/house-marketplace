@@ -30,7 +30,7 @@ function Navbar() {
               width="36px"
               height="36px"
             />
-            <p>Offer</p>
+            <p>Offers</p>
           </li>
           <li className="navbarListItem" onClick={() => navigate("/profile")}>
             <PersonOutlineIcon
