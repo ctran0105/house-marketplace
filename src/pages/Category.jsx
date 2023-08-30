@@ -30,7 +30,7 @@ function Category() {
         const q = query(
           listingsRef,
           where("type", "==", params.categoryName),
-          //orderBy("timestamp", "desc"),
+          orderBy("timestamp", "desc"),
           limit(10)
         );
 
