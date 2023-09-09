@@ -1,6 +1,42 @@
-# Getting Started with Create React App
+# House Marketplace
+This application is built with cutting-edge technologies, providing an intuitive and feature-rich experience for all users. The House Marketplace web application is your one-stop destination for exploring, buying, and selling properties. With a user-friendly interface and powerful features, you can:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Search for properties based on your criteria.
+View property details, including images and descriptions.
+Use interactive maps to visualize property locations.
+Connect with sellers through the platform.
+Authenticate securely using Google OAuth.
+And much more!
+
+# Table of Contents
+Introduction
+Tech Stack
+Features
+Available Scripts
+
+## Tech Stack
+Frontend: React, Leaflet, Framer Motion, Google OAuth API
+Backend and Database: Firebase
+Deployment and Hosting: Vercel
+APIs: Rest API, Geocoding API
+
+## Features
+1. Property Search
+Easily search for properties based on location, price range, and property type.
+View a list of matching properties or visualize them on a map.
+2. Property Details
+Click on a property to view detailed information, including high-quality images, descriptions, and contact details for the seller.
+3. Interactive Maps
+Utilize Leaflet maps to see property locations and nearby amenities.
+Zoom in and out for a detailed view of the neighborhood.
+4. User Authentication
+Securely log in using your Google account with Google OAuth API integration.
+Protect your personal information and maintain a personalized experience.
+5. Smooth Animations
+Enjoy a visually appealing experience with Framer Motion animations.
+6. Geocoding
+Use Geocoding API to convert addresses into geographical coordinates for accurate mapping.
+Getting Started
 
 ## Available Scripts
 
@@ -38,33 +74,3 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
