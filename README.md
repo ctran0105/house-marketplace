@@ -36,7 +36,6 @@ Protect your personal information and maintain a personalized experience.
 Enjoy a visually appealing experience with Framer Motion animations.
 6. Geocoding
 Use Geocoding API to convert addresses into geographical coordinates for accurate mapping.
-Getting Started
 
 ## Available Scripts
 
