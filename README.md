@@ -8,6 +8,8 @@ Connect with sellers through the platform.
 Authenticate securely using Google OAuth.
 And much more!
 
+Link to web app: https://house-marketplace-drab-six.vercel.app/
+
 # Table of Contents
 Introduction
 Tech Stack
