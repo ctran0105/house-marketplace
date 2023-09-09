@@ -1,4 +1,4 @@
-# House Marketplace
+# [House Marketplace](https://house-marketplace-drab-six.vercel.app/)
 This application is built with cutting-edge technologies, providing an intuitive and feature-rich experience for all users. The House Marketplace web application is your one-stop destination for exploring, buying, and selling properties. With a user-friendly interface and powerful features, you can:
 
 Search for properties based on your criteria.
@@ -7,8 +7,6 @@ Use interactive maps to visualize property locations.
 Connect with sellers through the platform.
 Authenticate securely using Google OAuth.
 And much more!
-
-Link to web app: https://house-marketplace-drab-six.vercel.app/
 
 # Table of Contents
 Introduction
