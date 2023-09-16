@@ -20,7 +20,7 @@ Available Scripts
 Frontend: React, Leaflet, Framer Motion, Google OAuth API
 Backend and Database: Firebase
 Deployment and Hosting: Vercel
-APIs: Rest API, Geocoding API
+APIs: Rest API, Position Stack API
 
 ## Features
 1. Property Search
