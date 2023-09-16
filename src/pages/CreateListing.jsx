@@ -97,14 +97,12 @@ function CreateListing() {
       );
 
       const data = await response.json();
+      console.log(data);
 
-      geolocation.lat = data.results[0]?.geometry.location.lat ?? 0;
-      geolocation.lng = data.results[0]?.geometry.location.lng ?? 0;
+      geolocation.lat = data.data[0]?.latitude ?? 0;
+      geolocation.lng = data.data[0]?.longitude ?? 0;
 
-      location =
-        data.status === "ZERO_RESULTS"
-          ? undefined
-          : data.results[0]?.formatted_address;
+      location = data.data[0] ? data.data[0]?.label : undefined;
 
       if (location === undefined || location.includes("undefined")) {
         setLoading(false);
