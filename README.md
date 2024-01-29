@@ -10,12 +10,6 @@ And much more!
 
 Link to web app: https://house-marketplace-drab-six.vercel.app/
 
-# Table of Contents
-Introduction
-Tech Stack
-Features
-Available Scripts
-
 ## Tech Stack
 - Frontend: React, Leaflet, Framer Motion, Google OAuth API
 - Backend and Database: Firebase
